@@ -1,0 +1,30 @@
+h1 {
+    color: red;
+}
+
+dollar {
+    color: purple;
+}
+
+.h11 {
+    color: red;
+    font-size: smaller;
+    font-family: serif;
+    align-content: center;
+}
+
+.backg {
+    color: lawngreen;
+}
+
+.idle {
+    color: black;
+    text-align: center;
+    font-size: medium;
+}
+
+.button {
+    background-color: brown;
+    text-align: center;
+    position: absolute;
+}
